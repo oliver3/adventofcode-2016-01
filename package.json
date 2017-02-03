@@ -1,0 +1,31 @@
+{
+  "name": "adventofcode-2016-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc && mocha dist/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliver3/adventofcode-2016-01.git"
+  },
+  "keywords": [
+    "blog",
+    "import",
+    "export",
+    "TypeScript",
+    "ES6"
+  ],
+  "author": "Oliver Verver",
+  "license": "MIT",
+  "homepage": "https://github.com/oliver3/adventofcode-2016-01#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/mocha": "^2.2.38",
+    "@types/node": "^7.0.4",
+    "mocha": "^3.2.0",
+    "typescript": "~2.1.5"
+  }
+}
